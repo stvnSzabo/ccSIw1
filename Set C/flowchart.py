@@ -1,5 +1,5 @@
 numbers = []
-leng = int(input("How many numbers:"))
+leng = int(input("How many numbers: "))
 
 for i in range(leng):
     numbers.append(int(input("Enter number: ")))
